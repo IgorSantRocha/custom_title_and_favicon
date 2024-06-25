@@ -27,7 +27,7 @@
     ],
     'assets': {
         'web.assets_backend_prod_only': [
-            'bdtask_custom_title_and_favicon/static/src/js/favicon.js',
+            'custom_title_and_favicon/static/src/js/favicon.js',
         ],
     },
     'demo': [
@@ -37,6 +37,6 @@
     'application': True,
     'auto_install': False,
     'qweb': [
-        
+
     ],
 }

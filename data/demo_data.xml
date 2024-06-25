@@ -15,8 +15,8 @@
 
         <record id="demo_company_bdtask" model="res.company">
             <field name="name">Custom</field>
-            <field name="logo" type="base64" file="bdtask_custom_title_and_favicon/static/src/img/favicon.ico"/>
-            <field name="favicon" type="base64" file="bdtask_custom_title_and_favicon/static/src/img/favicon.ico"/>
+            <field name="logo" type="base64" file="custom_title_and_favicon/static/src/img/favicon.ico"/>
+            <field name="favicon" type="base64" file="custom_title_and_favicon/static/src/img/favicon.ico"/>
             <field name="partner_id" ref="partner_demo_company"/>
         </record>
     </data>
