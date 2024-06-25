@@ -4,7 +4,7 @@
         <template id="favicon_icon" inherit_id="web.layout" name="Web layout">
             <!-- change the title with reliance partner -->
             <xpath expr="//head//title" position="before">
-                <title t-esc="'ELO'"/>
+                <title t-esc="'C-Trends BPO'"/>
             </xpath>
             <!-- change the default favicon icon with   -->
             <xpath expr="//head//link[@rel='shortcut icon']" position="after">
